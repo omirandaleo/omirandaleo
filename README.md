@@ -1,8 +1,7 @@
 # Salve! 🌻
 
 - Desenvolvedor front-end
-- Rio de Janeiro 
-- Brasil 
+- Rio de Janeiro  
 
 <div align="center">
   <a href="https://github.com/omirandaleo">
