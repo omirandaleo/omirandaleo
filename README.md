@@ -29,12 +29,12 @@
     <div>
 
 # Projetos ativos 
-- HTML & CSS
- https://omirandaleo.github.io/redbird/
+- HTML & CSS:
+-https://omirandaleo.github.io/redbird/
 - https://omirandaleo.github.io/mithril/
 - https://omirandaleo.github.io/desenho/
       
-- Java Script
+- Java Script:
 - https://omirandaleo.github.io/relogio-fotos/
 - https://omirandaleo.github.io/Contador-JavaScript/
 - https://omirandaleo.github.io/ilhabela/
