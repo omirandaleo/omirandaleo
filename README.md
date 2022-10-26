@@ -1,6 +1,5 @@
 # Salve! 🪐
-- Desenvolvimento web
-- Montagem e manutenção de Computadores 
+- Desenvolvedor | Front-end | Manutenção de Computadores 
 
 <div align="center">
   <a href="https://github.com/omirandaleo">
