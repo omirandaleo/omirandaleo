@@ -28,8 +28,10 @@
   <a href="https://www.linkedin.com/in/omirandaleo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
     <div>
 
-# Projetos ativos - HTML
+# Projetos ativos 
+- HTML
 - https://omirandaleo.github.io/redbird/
 - https://omirandaleo.github.io/mithril/
 - https://omirandaleo.github.io/desenho/
-# Projetos ativos - Java Script
+- Java Script
+- https://omirandaleo.github.io/Contador-JavaScript/
