@@ -1,37 +1,42 @@
-# Salve! 🪐
-- Desenvolvedor | Front-end | Manutenção de Computadores 
+# Salve!✌️
+<h3 align="left">💻 Sou Desenvolvedor Front-end <br>
+                 📍Atualmente estou finalizando meus estudos em JAVASCRIPT <br>
+                 🎬Um fato, adoro Filmes <br>
+                 📫Como me contatar: https://keepo.io/omirandaleo/ <br> <br>
+  
+  ⚙️ GitHub Analytics <br>
+  
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=omirandaleo&color=yellow" alt="Profile views" /> </p>
 
-<div align="center">
+<div align="left">
   <a href="https://github.com/omirandaleo">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=omirandaleo&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omirandaleo&layout=compact&langs_count=7&theme=gruvbox"/>
 </div>
  
- 
-  
-  <div style="display: inline_block"><br>
-  <img align="center" alt="Leo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Leo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Leo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Leo-bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
-  <img  align="center" alt="Leo-Wordpress" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" />        
-  </div>
-  
-  ## 
-  
-  <div>
-     <a href="https://instagram.com/omirandaleo" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:leomiranda.pereira@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/omirandaleo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-    <div>
+<h3 align="left">🧩 Linguagens e ferramentas:</h3>
 
-# Projetos ativos 
-- HTML & CSS:
--https://omirandaleo.github.io/redbird/
-- https://omirandaleo.github.io/mithril/
-- https://omirandaleo.github.io/desenho/
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,wordpress)](https://skillicons.dev)  
+  
+<h3 align="left">📱Redes sociais:</h3>  
+  <p align="left">      
+<p align="left">
+  <a href="https://instagram.com/omirandaleo">
+    <img src="https://skillicons.dev/icons?i=instagram" />
+  </a>
+  <a href="https://www.linkedin.com/in/omirandaleo/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+</p>
+  
+<h3 align="left">📎Projetos Ativos:</h3>
+  
+<h5 align="left">HTML & CSS:</h5>
+  Red Brid: https://omirandaleo.github.io/redbird/ <br>
+  Mithril Comics: https://omirandaleo.github.io/mithril/ <br>
+  Alien: https://omirandaleo.github.io/desenho/  <br>
       
-- Java Script:
-- https://omirandaleo.github.io/relogio-fotos/
-- https://omirandaleo.github.io/Contador-JavaScript/
-- https://omirandaleo.github.io/ilhabela/
+<h5 align="left">JAVASCRIPT:</h5>
+  Relógio Fotos: https://omirandaleo.github.io/relogio-fotos/ <br>
+  Contador: https://omirandaleo.github.io/Contador-JavaScript/  <br>
+  Ilha Bela: https://omirandaleo.github.io/ilhabela/  <br>
