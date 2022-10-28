@@ -39,4 +39,5 @@
 <h5 align="left">JAVASCRIPT:</h5>
   Relógio Fotos: https://omirandaleo.github.io/relogio-fotos/ <br>
   Contador: https://omirandaleo.github.io/Contador-JavaScript/  <br>
+  Tabuada: https://omirandaleo.github.io/Tabuada/ <br>
   Ilha Bela: https://omirandaleo.github.io/ilhabela/  <br>
