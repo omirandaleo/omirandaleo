@@ -32,3 +32,4 @@
 <h3 align="left">📎Projetos Ativos:</h3>
   
   Ilha Bela: https://omirandaleo.github.io/ilhabela/  <br>
+  Pokedex: https://omirandaleo.github.io/pokemon/ <br>
