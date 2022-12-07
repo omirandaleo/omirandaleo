@@ -1,6 +1,6 @@
 # Salve!✌️
 <h3 align="left">💻 Sou Desenvolvedor Front-end <br>
-                 📍Atualmente estou finalizando meus estudos em JAVASCRIPT <br>
+                 📍Atualmente estou começando meus estudos em LINUX <br>
                  🎬Um fato, adoro Filmes <br>
                  📫Como me contatar: https://keepo.io/omirandaleo/ <br> <br>
   
