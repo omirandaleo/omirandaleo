@@ -31,13 +31,4 @@
   
 <h3 align="left">📎Projetos Ativos:</h3>
   
-<h5 align="left">HTML & CSS:</h5>
-  Red Brid: https://omirandaleo.github.io/redbird/ <br>
-  Mithril Comics: https://omirandaleo.github.io/mithril/ <br>
-  Alien: https://omirandaleo.github.io/desenho/  <br>
-      
-<h5 align="left">JAVASCRIPT:</h5>
-  Relógio Fotos: https://omirandaleo.github.io/relogio-fotos/ <br>
-  Contador: https://omirandaleo.github.io/Contador-JavaScript/  <br>
-  Tabuada: https://omirandaleo.github.io/Tabuada/ <br>
   Ilha Bela: https://omirandaleo.github.io/ilhabela/  <br>
