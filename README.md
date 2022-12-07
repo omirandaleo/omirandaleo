@@ -2,7 +2,7 @@
 <h3 align="left">💻 Sou Desenvolvedor Front-end <br>
                  📍Atualmente estou começando meus estudos em LINUX <br>
                  🎬Um fato, adoro Filmes <br>
-                 📫Como me contatar: https://keepo.io/omirandaleo/ <br> <br>
+                 📫Como me contatar: https://beacons.ai/omirandaleo/ <br> <br>
   
   ⚙️ GitHub Analytics <br>
   
