@@ -1,6 +1,6 @@
 # Salve!✌️
 <h3 align="left">💻 Sou Desenvolvedor Front-end <br>
-                 📍Atualmente estou começando meus estudos em LINUX <br>
+                 📍Atualmente finalizei meus entudos em LINUX <br>
                  🎬Um fato, adoro Filmes <br>
                  📫Como me contatar: https://beacons.ai/omirandaleo/ <br> <br>
   
