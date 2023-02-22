@@ -2,7 +2,6 @@
 <h3 align="left">💻 Sou Desenvolvedor Front-end <br>
                  📍Atualmente finalizei meus entudos em LINUX <br>
                  🎬Um fato, adoro Filmes <br>
-                 📫Como me contatar: https://beacons.ai/omirandaleo/ <br> <br>
   
   ⚙️ GitHub Analytics <br>
   
@@ -28,8 +27,3 @@
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 </p>
-  
-<h3 align="left">📎Projetos Ativos:</h3>
-  
-  Ilha Bela: https://omirandaleo.github.io/ilhabela/  <br>
-  Pokedex: https://omirandaleo.github.io/pokemon/ <br>
