@@ -1,7 +1,5 @@
 # Salve!✌️
-<h3 align="left">💻 Sou Desenvolvedor Front-end <br>
-                 📍Atualmente finalizei meus entudos em LINUX <br>
-                 🎬Um fato, adoro Filmes <br>
+<h3 align="left">
   
   ⚙️ GitHub Analytics <br>
   
