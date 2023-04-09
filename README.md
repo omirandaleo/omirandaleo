@@ -12,16 +12,5 @@
 </div>
  
 <h3 align="left">🧩 Linguagens e ferramentas:</h3>
-
-[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,wordpress)](https://skillicons.dev)  
   
-<h3 align="left">📱Redes sociais:</h3>  
-  <p align="left">      
-<p align="left">
-  <a href="https://instagram.com/omirandaleo">
-    <img src="https://skillicons.dev/icons?i=instagram" />
-  </a>
-  <a href="https://www.linkedin.com/in/omirandaleo/">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-</p>
+<h3 align="left"></h3> 
